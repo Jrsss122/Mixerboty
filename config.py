@@ -10,7 +10,7 @@ session = getenv("session", "BQFQUu4ASBsj4sp8OieDnX-CsWY3idaJQ_XnPCE-aWzyatWHGJX
 bot_token = getenv("bot_token", "7023999606:AAF4hfQDAAgv0-9-H0OWYtE9P2nC0tTuPIU")
 db_name = getenv("db_name", None)
 mongo_uri = getenv("mongo_uri", "mongodb+srv://muchi:muchi@cluster0.ebmld.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
-def_bahasa = getenv("def_bahasa", "toxic")
+def_bahasa = getenv("def_bahasa", "id")
 log_pic = getenv("log_pic", "https://telegra.ph//file/43cec0ae0ded594b55247.jpg")
 heroku_api = getenv("heroku_api")
 heroku_app_name = getenv("heroku_app_name")
